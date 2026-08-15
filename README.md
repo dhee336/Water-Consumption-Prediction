@@ -69,7 +69,7 @@ This will:
 
 ### Step 2: Run the Streamlit App
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
 ```
 The app will open in your browser at `http://localhost:8501`
 
