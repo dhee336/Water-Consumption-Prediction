@@ -28,7 +28,6 @@ wheels/
 
 # Generated files
 model.pkl
-water_dataset.csv
 
 # IDE
 .vscode/
